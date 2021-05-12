@@ -1,0 +1,56 @@
+{
+  "name": "kame",
+  "version": "1.0.0",
+  "description": "## Pesquisa + Pesquisar por bibliotecas que auxiliem no design responsivo (ex: bulma, bootstrap, material design) + Pesquisar por bibliotecas que manipulem mapas interativos + Pesquisar sobre JavaScript + Estudar a ferramenta GIT (instalar) e a plataforma GITHUB (onde ficará o código-fonte)",
+  "scripts": {
+    "start": "webpack serve --config webpack.dev.js --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricioifc/kame.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabricioifc/kame/issues"
+  },
+  "homepage": "https://github.com/fabricioifc/kame#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "babel-loader": "^8.2.2",
+    "bulma": "^0.9.2",
+    "css-loader": "^5.2.4",
+    "css-minimizer-webpack-plugin": "^2.0.0",
+    "cypress": "^7.2.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "http-server": "^0.12.3",
+    "mini-css-extract-plugin": "^1.6.0",
+    "node-sass": "^6.0.0",
+    "postcss-loader": "^5.2.0",
+    "postcss-preset-env": "^6.7.0",
+    "sass-loader": "^11.1.0",
+    "standard": "^16.0.3",
+    "style-loader": "^2.0.0",
+    "terser-webpack-plugin": "^5.1.1",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "standard": {
+    "ignore": [
+      "cypress"
+    ],
+    "env": [
+      "node",
+      "es6"
+    ]
+  }
+}
