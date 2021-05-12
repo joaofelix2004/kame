@@ -9,13 +9,16 @@ Site sobre a guerra do contestado
 
 ## Histórias
 
-1. [] Desenvolver a página inicial do site
-2. [] Criar uma tela para que o visitante possa registrar a sua presença (assinatura dos visitantes)
+1. [ ] Desenvolver a página inicial do site
+2. [ ] Criar uma tela para que o visitante possa registrar a sua presença (assinatura dos visitantes)
    * Um formulário com o nome, lugar de origem, idade, dtvisita (sistema fornece)
-3. [] Mapa informativo, 
-4. [] Linha do tempo
-5. [] Galeria de fotos
-6. [] Jogos 
+3. [ ] Mapa informativo, 
+4. [ ] Linha do tempo
+5. [ ] Galeria de fotos
+6. [ ] Jogos 
   ** adivinhar a bandeira do contestado
   ** 
-7. [] Tela com informações sobre o site e referências utilizadas
+7. [ ] Tela com informações sobre o site e referências utilizadas
+
+
+### Fizemos alterações neste documento
